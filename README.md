@@ -22,7 +22,7 @@ Once the data is uploaded, the system processes it through an **AI-powered, neur
 
 The model dynamically learns how **temperature, voltage, and current** interact with capacity fade and internal resistance across cycles. It then produces accurate State of Health (SOH) estimations while detecting early-stage anomalies that conventional battery management systems cannot capture.
 
-All results are visualized through an **interactive analytics dashboard**, enabling users to view SOH prediction curves, temperature and voltage trends, correlation heatmaps, and degradation evolution across cycles — providing a complete digital twin of the battery’s behavior.
+All results are visualized through an **interactive analytics dashboard**, enabling users to view SOH prediction curves, temperature and voltage trends, correlation heatmaps, and degradation evolution across cycles providing a complete digital twin of the battery’s behavior.
 
 
 
@@ -39,11 +39,9 @@ The software generates the following analytical outputs:
 
 ## **Access Prototype**
 
-To explore the live demonstration and predictive analytics dashboard, visit the following links:
+To explore the live demonstration and predictive analytics dashboard, visit the following link:
 
 **SOH Estimation Dashboard:** [https://elec-dash.streamlit.app/](https://elec-dash.streamlit.app/)
-
-Here’s a concise, professional version — clean, impactful, and around one page:
 
 
 
@@ -51,7 +49,7 @@ Here’s a concise, professional version — clean, impactful, and around one pa
 
 ## **Aim**
 
-To demonstrate ElecticaOS, an AI-driven energy trading and optimization platform inspired by Tesla’s Autobidder. The goal is to show how distributed battery assets can autonomously forecast, dispatch, and trade energy — turning storage systems into profit-generating, grid-stabilizing assets.
+To demonstrate ElecticaOS, an AI-driven energy trading and optimization platform inspired by Tesla’s Autobidder. The goal is to show how distributed battery assets can autonomously forecast, dispatch, and trade energy turning dectralised-distributed energy assets (storage systems) into profit-generating, grid-stabilizing assets.
 
 
 
