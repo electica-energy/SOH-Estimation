@@ -7,6 +7,13 @@
 To demonstrate the predictive intelligence of ElecticaOS by analyzing real-world battery life cycle data and accurately estimating the State of Health (SOH), performance trends, and degradation patterns over time. The objective is to showcase how AI-driven analytics can transform raw battery data into actionable insights for improved lifespan, safety, and efficiency.
 
 
+## **Access Prototype**
+
+To explore the live demonstration and predictive analytics dashboard, visit the following link:
+
+**SOH Estimation Dashboard:** [https://elec-dash.streamlit.app/](https://elec-dash.streamlit.app/)
+Username: admin | Password: battery@100
+
 
 ## **Input**
 
@@ -37,22 +44,16 @@ The software generates the following analytical outputs:
 
 
 
-## **Access Prototype**
-
-To explore the live demonstration and predictive analytics dashboard, visit the following link:
-
-**SOH Estimation Dashboard:** [https://elec-dash.streamlit.app/](https://elec-dash.streamlit.app/)
-Username: admin | Password: battery@100
-
-
-
 # **V2G (Vehicle to grid) Energy Orchestration (Simulation)**
 
 ## **Aim**
 
 To demonstrate ElecticaOS, an AI-driven energy trading and optimization platform inspired by Tesla’s Autobidder. The goal is to show how distributed battery assets can autonomously forecast, dispatch, and trade energy turning dectralised-distributed energy assets (storage systems) into profit-generating, grid-stabilizing assets.
 
+## **Access Prototype**
 
+**Live Dashboard:** [https://eos-pied.vercel.app/](https://eos-pied.vercel.app/)
+*Username: a | Password: a*
 
 ## **Overview**
 
@@ -77,10 +78,3 @@ The platform uses an **AI-powered neural network and optimization engine** to an
 * Automated dispatch simulation (charging/discharging)
 * Live revenue tracking from Arbitrage, FCAS, and Demand Response
 * Interactive analytics dashboard
-
-
-
-## **Access Prototype**
-
-**Live Dashboard:** [https://eos-pied.vercel.app/](https://eos-pied.vercel.app/)
-*Username: a | Password: a*
